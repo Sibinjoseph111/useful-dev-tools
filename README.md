@@ -66,3 +66,4 @@ Desktop Tool | Description
 [pgAdmin](http://postgresapp.com/) | A full-featured PostgreSQL install for MacOS.
 [iTerm2](https://www.iterm2.com/) | A terminal emulator for macOS to replace Terminal.
 [GitBash](https://gitforwindows.org) | A git terminal for windows
+[Android Studio](https://developer.android.com › studio) | An IDE for android app development.
